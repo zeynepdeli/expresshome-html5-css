@@ -17,7 +17,7 @@ html {
 }
 
 #welcomepage {
-    background:url(cold-brew-2.webp);
+    background:url(images/cold-brew-2.webp);
 
     background-position: center;
     background-size: cover;
@@ -149,7 +149,7 @@ nav a:hover{
 
     padding-left: 50px;
     padding-right: 50px;
-    background:url(wp2202882.jpg);
+    background:url(images/wp2202882.jpg);
     min-height: 100vh;
     background-size: cover;
 
@@ -268,7 +268,7 @@ nav a:hover{
 #sec3 {
     padding-left: 50px;
     padding-right: 50px;
-    background:url(wp2202882.jpg);
+    background:url(images/wp2202882.jpg);
     min-height: 100vh;;
     min-height: 100vh;
     
@@ -377,7 +377,7 @@ nav a:hover{
 #sec4{
     padding-left: 50px;
     padding-right: 50px;
-    background:url(wp2202882.jpg);
+    background:url(images/wp2202882.jpg);
     min-height: 100vh;
     
 
@@ -452,7 +452,7 @@ nav a:hover{
 #sec5{
     padding-left: 50px;
     padding-right: 50px;
-    background:url(wp2202882.jpg);
+    background:url(images/wp2202882.jpg);
     min-height: 100vh;
 }
 
@@ -513,7 +513,7 @@ nav a:hover{
 
     padding-left: 50px;
     padding-right: 50px;
-    background:url(wp2202882.jpg);
+    background:url(images/wp2202882.jpg);
     min-height: 100vh;
 
 }
@@ -592,7 +592,7 @@ nav a:hover{
 #sec7{
     padding-left: 50px;
     padding-right: 50px;
-    background:url(wp2202882.jpg);
+    background:url(images/wp2202882.jpg);
     min-height: 100vh;
 }
 
