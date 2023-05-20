@@ -5,4 +5,3 @@
 <h3>Screen Gif</h3>
 
 
-![](screen.gif)
